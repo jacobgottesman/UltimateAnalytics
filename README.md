@@ -23,7 +23,7 @@ In order to successfully recreate the model, follow these steps.
      - It will by default get rating over the course of the entire league history. If you want to replicate the results from the paper (2021-2024) then uncomment the last line in the third cell before running the notebook.
 5. Run On-Off Model
       - For every year that you are running this model make sure that you have a separate file named yearplaydata.csv for example for 2024 it would be 2024playdata.csv
-      - Open file called `on off model .ipyb`
+      - Open file called `on off model .ipynb`
       - Set correct filenames in cell 2
       - Run the entire Notebook
 6. Make Visualization that are presnt in paper
