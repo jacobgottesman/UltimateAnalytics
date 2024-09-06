@@ -1,5 +1,4 @@
 ## Player Rating and Evaluation Systems for Ultimate Frisbee
-### Jacob Gottesman; Northeastern University; gottesman.j@northeatern.edu
 
 This Repository contains all code needed to replicate my work in creating player rating and evaluation systems for profesional Ultimate Frisbee.
 
