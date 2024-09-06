@@ -36,4 +36,4 @@ In order to successfully recreate the model, follow these steps.
      - If t doesn't redirect you to the page immediately then, click the link or enter the ip address in a browser
 
 
-Note: step 2 may take about 1 hour to run. The other steps can all be run in about 5 minutes or less. 
+Note: step 2 may take about 1 hour to run. Step 5 may take 10-20 minutes depending on your computer. The other steps can all be run in about 5 minutes or less. 
